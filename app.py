@@ -1,6 +1,3 @@
-# USAGE
-# python app.py --east frozen_east_text_detection.pb --image images/example_01.jpg
-# python app.py --east frozen_east_text_detection.pb --image images/example_04.jpg --padding 0.05
 
 # import the necessary packages
 from imutils.object_detection import non_max_suppression
