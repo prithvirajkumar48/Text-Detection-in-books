@@ -1,4 +1,4 @@
-# USAGE
+
 # python text_recognition.py --east frozen_east_text_detection.pb --image images/example_0.jpg
 # python text_recognition.py --east frozen_east_text_detection.pb --image images/example_07.jpg --padding 0.05
 
